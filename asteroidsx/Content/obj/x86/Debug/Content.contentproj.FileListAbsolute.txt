@@ -1,0 +1,3 @@
+h:\DATEN\Visual Studio 2008\Projects\asteroidsx\asteroidsx\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Sommercamp 2009\asteroidsx\asteroidsx\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Eigene Dateien\Projekte\Sommercamp 2009\asteroidsx\asteroidsx\Content\obj\x86\Debug\ResolveAssemblyReference.cache
